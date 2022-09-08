@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="calcula_media.py" />
+    <Compile Include="cotacao.py" />
     <Compile Include="hitss_bem_vindo.py" />
     <Compile Include="Hitss_hello_world.py" />
     <Compile Include="hitss_soma.py" />
